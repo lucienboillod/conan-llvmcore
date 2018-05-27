@@ -5,7 +5,7 @@ Conan package for LLVM Core
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-||[![Build status](https://ci.appveyor.com/api/projects/status/aq5cc90gqn8v8fyt/branch/master?svg=true)](https://ci.appveyor.com/project/lucienboillod/conan-llvmcore/branch/master)|[![Build Status](https://travis-ci.org/lucienboillod/conan-llvmcore.svg?branch=master)](https://travis-ci.org/lucienboillod/conan-llvmcore)|
+||[![Build status](https://ci.appveyor.com/api/projects/status/xlwbgp350dkbtmbj/branch/master?svg=true)](https://ci.appveyor.com/project/lucienboillod/conan-llvmcore/branch/master)|[![Build Status](https://travis-ci.org/lucienboillod/conan-llvmcore.svg?branch=master)](https://travis-ci.org/lucienboillod/conan-llvmcore)|
 
 ## Conan.io Information
 
